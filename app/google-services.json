@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "426563429017-a4p6qr4hkmm5t2f0a1v6le1cge4kc9iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doar.doe.app",
+            "certificate_hash": "3FAD0181338FFA0DE781B08CB10F0F2989D7B86F"
+          }
+        },
+        {
           "client_id": "426563429017-m9opl9c64l6mff55qt46g6qujblvrkhe.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426563429017-m9opl9c64l6mff55qt46g6qujblvrkhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
