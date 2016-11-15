@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1682696008707491</string>
+    <string name="msg_close">Fechar</string>
+    <string name="msg_title_dialog">Cade a nota</string>
+    <string name="err_message_login">Não foi possível acessar o doar-se. Tente novamente</string>
 </resources>
